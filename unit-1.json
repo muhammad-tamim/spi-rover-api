@@ -1,12 +1,12 @@
 [
     {
-        "img": "https://example.com/person1.jpg",
-        "name": "John Doe",
+        "img": "../img/tarikul-sir-spi.jpg",
+        "name": "",
         "position": "RSL",
         "bsid": "BSID001"
     },
     {
-        "img": "https://example.com/person2.jpg",
+        "img": "../img/Resume_Saifur_Rahman_Tamim.jpg",
         "name": "MD Saifur Rahman Tamim",
         "position": "SRM",
         "bsid": "BSID002"
@@ -73,9 +73,9 @@
     },
     {
         "img": "https://example.com/person13.jpg",
-        "name": "Liam Anderson",
+        "name": "Towsiful Islam",
         "position": "Member",
-        "bsid": "BSID013"
+        "bsid": "Unavailavel"
     },
     {
         "img": "https://example.com/person14.jpg",
